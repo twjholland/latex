@@ -1,5 +1,0 @@
-[0] Config.pm:304> INFO - This is Biber 2.14
-[0] Config.pm:307> INFO - Logfile is '/Users/th-work/Desktop/epq/write up/.texpadtmp/main.blg'
-[110] biber-darwin:322> INFO - === Mon Nov  9, 2020, 12:40:27
-[129] Biber.pm:415> INFO - Reading '/Users/th-work/Desktop/epq/write up/.texpadtmp/main.bcf'
-[261] Utils.pm:304> WARN - No data sources defined!
